@@ -1,0 +1,13 @@
+D:\Programming\C#\CwK-lvl-6\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.exe
+D:\Programming\C#\CwK-lvl-6\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.deps.json
+D:\Programming\C#\CwK-lvl-6\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.runtimeconfig.json
+D:\Programming\C#\CwK-lvl-6\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.runtimeconfig.dev.json
+D:\Programming\C#\CwK-lvl-6\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.dll
+D:\Programming\C#\CwK-lvl-6\Tic-Tac-Toe\bin\Debug\netcoreapp3.1\Tic-Tac-Toe.pdb
+D:\Programming\C#\CwK-lvl-6\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.csprojAssemblyReference.cache
+D:\Programming\C#\CwK-lvl-6\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+D:\Programming\C#\CwK-lvl-6\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.AssemblyInfoInputs.cache
+D:\Programming\C#\CwK-lvl-6\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.AssemblyInfo.cs
+D:\Programming\C#\CwK-lvl-6\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.dll
+D:\Programming\C#\CwK-lvl-6\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.pdb
+D:\Programming\C#\CwK-lvl-6\Tic-Tac-Toe\obj\Debug\netcoreapp3.1\Tic-Tac-Toe.genruntimeconfig.cache
